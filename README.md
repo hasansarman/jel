@@ -1,0 +1,2 @@
+# jel
+Java Easy License
