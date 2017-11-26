@@ -70,7 +70,14 @@ Extract the public key, fur publishing.
 
 
 
-
+#HWID TOOL USAGE
+1. Copy JEL_HWID_TOOL.jar to desired computer/sbc/server....
+ ![Alt text](https://radonrad.com/wp-content/uploads/2017/10/hwid1.png "hwid start")
+2. run JEL_HWID_TOOL.jar with ADMINISTRATOR OR ROOT Privileges.or you will get NULL HWID
+ ![Alt text](https://radonrad.com/wp-content/uploads/2017/10/hwid2.png "null hwide")
+4. Last line is your hwid.(in this picture your code is: DMI xxxxx
+dmi is not the only option try with different computers/servers/sbc to see the difference.
+ ![Alt text](https://radonrad.com/wp-content/uploads/2017/10/hwid3.png "hwid")
 
 
 
